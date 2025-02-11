@@ -11,7 +11,7 @@ Maven
 1. React.js<br/>
 2. Axios<br/>
 3. CSS <br/>
-4. HTML<br/>
+4. HTML
 ##📌 Installation & Setup<br/>
 ###1.Backend Setup<br/>
 1️⃣ Clone the repository:<br/>
