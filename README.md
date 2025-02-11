@@ -11,8 +11,8 @@ Maven
 1. React.js<br/>
 2. Axios<br/>
 3. CSS <br/>
-4. HTML
-##📌 Installation & Setup<br/>
+4. HTML<br/>
+##📌 Installation & Setup
 ###1.Backend Setup<br/>
 1️⃣ Clone the repository:<br/>
 git clone https://github.com/yourusername/task-management-app.git<br/>
