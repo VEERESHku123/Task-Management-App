@@ -14,10 +14,9 @@ Maven<br/>
 4. HTML<br/>
 ### Installation & Setup 
 ### 1.Backend Setup<br/>
-1️⃣ Clone the repository:<br/>
-git clone https://github.com/yourusername/task-management-app.git<br/>
-cd task-management-app/backend<br/>
 3️⃣ Build & run the backend:<br/>
+cd BackEnd<br/>
+cd task<br/>
 mvn clean install  <br/>
 mvn spring-boot:run<br/>
 ### 2.Frontend Setup<br/>
