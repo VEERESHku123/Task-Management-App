@@ -14,7 +14,7 @@ Maven<br/>
 4. HTML<br/>
 ### Installation & Setup 
 ### 1.Backend Setup<br/>
-3️⃣ Build & run the backend:<br/>
+1️⃣ Build & run the backend:<br/>
 cd BackEnd<br/>
 cd task<br/>
 mvn clean install  <br/>
