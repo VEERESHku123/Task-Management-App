@@ -8,21 +8,21 @@ Hibernate
 H2
 Maven
 ### Frontend (React)
-React.js<br/>
-Axios
-React Router
-CSS 
-##📌 Installation & Setup
-###1.Backend Setup
-1️⃣ Clone the repository:
-git clone https://github.com/yourusername/task-management-app.git
-cd task-management-app/backend
-3️⃣ Build & run the backend:
-mvn clean install  
-mvn spring-boot:run
-###2.Frontend Setup
-1️⃣ Navigate to frontend folder:
-cd FrontEnd
-cd task-manager-frontend
-npm install
-npm run dev
+1. React.js<br/>
+2. Axios<br/>
+3. CSS <br/>
+4. HTML<br/>
+##📌 Installation & Setup<br/>
+###1.Backend Setup<br/>
+1️⃣ Clone the repository:<br/>
+git clone https://github.com/yourusername/task-management-app.git<br/>
+cd task-management-app/backend<br/>
+3️⃣ Build & run the backend:<br/>
+mvn clean install  <br/>
+mvn spring-boot:run<br/>
+###2.Frontend Setup<br/>
+1️⃣ Navigate to frontend folder:<br/>
+cd FrontEnd<br/>
+cd task-manager-frontend<br/>
+npm install<br/>
+npm run dev<br/>
