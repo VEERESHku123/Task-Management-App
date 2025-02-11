@@ -8,7 +8,7 @@ Hibernate
 H2
 Maven
 ### Frontend (React)
-React.js
+React.js<br/>
 Axios
 React Router
 CSS 
